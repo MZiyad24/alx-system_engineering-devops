@@ -1,0 +1,2 @@
+#!/bin/bash4
+head -3 | tail -1
